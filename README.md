@@ -6,7 +6,7 @@ This project is built using HTML, CSS, and vanilla JavaScript, with animations p
 
 ## 🚀 Live Demo
 
-🔗 Live Website: Add your GitHub Pages / Vercel URL here
+🔗 Live Website: (https://abiraisingh.github.io/Personal-Portfolio/)
 
 ## ✨ Features
 ### 🎨 Modern UI/UX
