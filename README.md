@@ -150,4 +150,5 @@ This project is free to use for personal and educational purposes.
 ## 💡 Author
 
 Oak Academy
-Built by Abirai Singh
+
+### Built by Abirai Singh
